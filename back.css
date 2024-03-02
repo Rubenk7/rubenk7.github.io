@@ -1,0 +1,93 @@
+.poster{
+   width:700px;
+   height:300px;
+   text-align:justify;
+   border-style: outset ;
+   border-width: 10px;
+   border-radius: 22px;
+   border-color: brown;
+}
+.contenedor1{
+    position: absolute;
+    top: 520px; /* Posición desde la parte superior */
+    left: 700px;   
+}
+.contenedor2{
+    text-align: center;
+}
+.texto{  
+    font-family: "YoSoyElPeligro";
+    position: absolute;
+color: blanchedalmond;
+    top: 35%;/* Posición desde la parte superior */
+    left: 10%;
+    font-size: 80px;
+}
+ @font-face {
+    font-family: YoSoyElPeligro;
+    src: url("Breaking\ Bad.ttf");
+ }
+ .fieldset .legend {
+    color: rgb(4, 137, 66); /* Cambia el color de la fuente */
+    font-size: 14px;
+}
+.fieldset{
+    color: rgb(4, 137, 66);
+    border-width: 6px;
+    font-size: 18px;
+
+    
+}
+table{
+    
+    position: relative;
+    margin:  auto;
+background-color:rgb(43, 45, 35);
+
+}
+body{
+    background-color:#0c3e11;
+
+}
+
+.g1{
+    background-color:rgb(180, 221, 27);
+
+
+}
+.g2{
+    background-color:rgb(171, 141, 203);
+}
+.g3{
+    background-color:rgb(212, 231, 129);
+
+}
+.g4{
+    background-color:rgb(138, 164, 23);
+
+}
+.g5{
+    background-color:rgb(240, 248, 200);
+
+}
+.g6{
+
+    background-color:rgb(98, 113, 38);
+}
+
+.g7{
+    background-color:rgb(199, 220, 107);
+}
+.g8{
+    background-color:rgb(187, 196, 156);
+}
+.g9{
+    background-color:rgb(129, 143, 75);
+}
+.g10{
+    background-color:rgb(194, 198, 42);
+
+}.c1{
+    border-collapse: collapse;
+    background-color:rgb(180, 221, 27);
+}
